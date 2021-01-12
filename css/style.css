@@ -1,0 +1,25 @@
+.banner-backcolor{
+    background-color: #FEEAE9;
+}
+.all-ol-color li{
+    background-color: rgb(68, 68, 68);
+}
+.slide-color-all{
+    background-color: rgba(153, 153, 153, 0.233);
+    height: 100%;
+    width: 100%;
+    
+}
+.slide-color-all:hover{
+
+    background-color: rgba(153, 153, 153, 0.356);
+}
+.slide-icon-1{
+    margin-right: auto;
+}
+.slide-icon-2{
+    margin-left: auto;
+}
+.icon-box{
+    width: 35px;
+}
